@@ -47,12 +47,12 @@ header .navbar-expand-lg .navbar-nav .nav-link {
     text-transform: capitalize;
     color: #FFF;
     background-color: transparent;
-    background-image: linear-gradient(170deg, #2b469994 0%, #2b4699 100%);
+    background-image: linear-gradient(170deg, #2cc7cc94 0%, #20dac1 100%);
     border-style: solid;
     border-width: 2px 2px 2px 2px;
-    border-color: #2b4699b3;
+    border-color: #19ccd3dc;
     border-radius: 8px 8px 8px 8px;
-    box-shadow: 0px 0px 100px 0px #4562bbdb;
+    box-shadow: 0px 0px 100px 0px #2cc7cc94;
     padding: 10px 20px 10px 20px !important;
     font-size: 16px;
     display: inline-block;
@@ -136,20 +136,20 @@ header .navbar-expand-lg .navbar-nav .nav-link {
 }
 
 .buy_banner_btn {
-    background: #e52c2c;
+    background: #1fcab5;
     color: #FFF;
     transition: 0.5s;
 }
 
 .buy_banner_btn:hover {
-    background: #f31515;
+    background: #189989;
     color: #FFF;
     transition: 0.5s;
     transform: scale(1.1);
 }
 
 .buy_paper_btn {
-    background: #2b4699;
+    background: #4164cf;
     color: #FFFF;
     transition: 0.5s;
 }
@@ -202,11 +202,11 @@ header .navbar-expand-lg .navbar-nav .nav-link {
 .list_caopy_section_area a {
     /* width: 100%; */
     display: inline-block;
-    border: 1px solid #e52c2c;
+    border: 1px solid #1fcab5;
     padding: 6px 10px;
     text-decoration: none;
     text-align: left;
-    background: #e52c2c;
+    background: #1fcab5;
     font-size: 18px;
     color: #FFF;
     border-radius: 5px;
@@ -216,11 +216,11 @@ header .navbar-expand-lg .navbar-nav .nav-link {
 .list_caopy_section_area a:hover {
     /* width: 100%; */
     display: inline-block;
-    border: 1px solid #a72525d4 ;
+    border: 1px solid #14c5afab ;
     padding: 6px 10px;
     text-decoration: none;
     text-align: left;
-    background: #a72525d4 ;
+    background: #14c5afab ;
     font-size: 18px;
     color: #FFF;
     border-radius: 5px;
@@ -238,7 +238,7 @@ header .navbar-expand-lg .navbar-nav .nav-link {
     display: block;
     margin: 0 0 20px 0;
     font-size: 50px;
-    color: #e52c2c;
+    color: #1fcab5;
     font-weight: 900;
 }
 
@@ -911,5 +911,5 @@ span.left_rewardsx {
     position: absolute;
     font-size: 80px;
     font-weight: bold;
-    color: #e52c2c;
+    color: #1fcab5;
 }
