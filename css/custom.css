@@ -133,6 +133,7 @@ header .navbar-expand-lg .navbar-nav .nav-link {
     outline: none;
     box-shadow: none;
     transition: 0.5s;
+    text-decoration: none;
 }
 
 .buy_banner_btn {
